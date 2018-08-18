@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetDemo</string>
+    <string name="appwidget_text">PIN</string>
+    <string name="add_widget">Add widget</string>
+</resources>
